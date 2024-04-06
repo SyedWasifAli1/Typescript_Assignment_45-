@@ -1,0 +1,14 @@
+"use strict";
+var abc = "wasif";
+var a = "string";
+var a = "string";
+var b = 1213;
+var c = true;
+var d = "string" + 123 + "wow";
+console.log(abc + a + b + c + d);
+console.log(abc + a + b + c + d);
+let message = 1;
+message = 2;
+const mess = "const";
+console.log(mess);
+console.log(message);
